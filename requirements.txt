@@ -1,0 +1,6 @@
+onnx
+onnxruntime>=1.16.3
+opencv-python>=4.10.0
+numpy>=1.24.4
+scipy>=1.10.1
+pillow>=10.4.0
